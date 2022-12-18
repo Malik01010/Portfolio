@@ -1,4 +1,4 @@
--- Cleanign Data in SQL
+-- Cleaning Data in SQL
 
 Select *
 From 
